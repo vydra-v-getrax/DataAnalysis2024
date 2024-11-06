@@ -30,7 +30,7 @@ All assignments should be submitted via email.
   </tr>
    <tr>
     <td>06.11 (online)</td>
-    <td></td>
+    <td><a href=https://github.com/vydra-v-getrax/DataAnalysis2024/blob/main/PBSem3.ipynb>Control structures</a></td>
     <td></td>
     <td></td>
     <td></td>
