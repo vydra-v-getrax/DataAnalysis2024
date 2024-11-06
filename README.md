@@ -6,11 +6,14 @@ Data manipulation, visualization and analysis in Python. HSE course, Masters 2 y
 
 ### Assessment
 
-0.2 * Assignment1 + 0.3 * Assignment2 + 0.3 * Assignment3 + 0.2 * r&d
+0.3 * Assignment1 + 0.3 * Assignment2 + 0.4 * Assignment3 + 0.2 * Bonus task
+
 
 Assignments can be completed within a week of the distribution for the max. of 10 points, within two weeks for the max. of 8 points.
 There is no exam, final grade is rounded in faovr of the student. 
-R&D consists of a small project with the purpose of exploring the tools you may need in your own linguistic research. You have to choose a language (except for English or Russian) and present a report on 2-3 libraries for handling it: part-of-speech tagging/lemmatization/word splitting/syntax parser etc. Presentation should include both code samples, results on some test data and report on missing/wrong/flawless features the library has.
+
+
+Bonus task consists of a small project with the purpose of exploring the tools you may need in your own linguistic research. You have to choose a language (except for English or Russian) and present a report on 2-3 libraries for handling it: part-of-speech tagging/lemmatization/word splitting/syntax parser etc. Presentation should include both code samples, results on some test data and report on missing/wrong/flawless features the library has.
 
 If you prefer not to attend the classes, you can submit a project instead of doing assignments. Grade for the project would be your final grade for the course. 
 
