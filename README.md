@@ -1,2 +1,57 @@
 # DataAnalysis2024
-Data manipulation in Python. HSE course, Masters 2 year
+Data manipulation, visualization and analysis in Python. HSE course, Masters 2 year
+
+### Instructor
+* Alexandra Konovalova (alxdra.konovalova@gmail.com [@sashonet](https://t.me/sashonet))
+
+### Assessment
+
+0.2 * Assignment1 + 0.3 * Assignment2 + 0.3 * Assignment3 + 0.2 * r&d
+
+Assignments can be completed within a week of the distribution for the max. of 10 points, within two weeks for the max. of 8 points.
+There is no exam, final grade is rounded in faovr of the student. 
+R&D consists of a small project with the purpose of exploring the tools you may need in your own linguistic research. You have to choose a language (except for English or Russian) and present a report on 2-3 libraries for handling it: part-of-speech tagging/lemmatization/word splitting/syntax parser etc. Presentation should include both code samples, results on some test data and report on missing/wrong/flawless features the library has.
+
+If you prefer not to attend the classes, you can submit a project instead of doing assignments. Grade for the project would be your final grade for the course. 
+
+All assignments should be submitted via email. 
+
+### Schedule
+<table>
+  <tr>
+    <th>Week</th>
+    <th>Seminar</th>
+    <th>Assignments</th>
+    <th>Due date</th>
+    <th>Reference</th>
+  </tr>
+   <tr>
+    <td>06.11 (online)</td>
+    <td><a href="https://github.com/vydra-v-getrax/intro_to_r/blob/main/week1/Introduction.md">Intro to R</a><br>
+    <a href="https://github.com/vydra-v-getrax/intro_to_r/blob/main/week1/markdown.md">Markdown</a></td>
+    <td><a href="https://github.com/vydra-v-getrax/intro_to_r/blob/main/week1/Assignment%200.md">Assignment 0 (optional)</a></td>
+    <td></td>
+    <td></td>
+ </tr>
+ <tr>
+  <td>13.11 (online)</td>
+  <td></td>
+  <td></td>
+  <td></td>
+   <td></td>
+</tr>
+<tr>
+  <td>20.11. (online)</td>
+  <td></td>
+  <td>Assignment 1</td>
+  <td>27.11  for the max. of 10, <br>04.12 for the max. of 8</td>
+  <td></td>
+</tr>
+<tr>
+  <td>27.11 </td>
+  <td></td>
+  <td></td>
+  <td>03.10</td>
+  <td></td>
+</tr>
+</table>
