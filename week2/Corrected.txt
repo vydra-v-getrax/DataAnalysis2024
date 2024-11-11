@@ -1,0 +1,1093 @@
+# text = А. И. Одоевский. «На грозном приступе, в пылу кровавой битвы...» (1830)
+1	На	НА	ADP	_	_	3	case	_	_
+2	грозном	ГРОЗНЫЙ	ADJ	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	_	3	amod	_	_
+3	приступе	ПРИСТУП	NOUN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	14	obl	_	_
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	в	В	ADP	_	_	6	case	_	_
+6	пылу	ПЫЛ	NOUN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	3	conj	_	_
+7	кровавой	КРОВАВЫЙ	ADJ	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	8	amod	_	_
+8	битвы	БИТВА	NOUN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	6	nmod	_	_
+9	Он	ОН	PRON	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	14	nsubj	_	_
+10	нежной	НЕЖНЫЙ	ADJ	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	11	amod	_	_
+11	матери	МАТЬ	NOUN	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	_	8	nmod	_	_
+12	нигде	НИГДЕ	ADV	Degree=Pos	_	14	advmod	_	_
+13	не	НЕ	PART	_	_	14	advmod	_	_
+14	забывал	ЗАБЫВАТЬ	VERB	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	0	root	_	_
+15	;	;	PUNCT	_	_	3	punct	_	_
+
+# text = А. И. Одоевский. «На грозном приступе, в пылу кровавой битвы...» (1830)
+1	Он	ОН	PRON	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	4	nsubj	_	_
+2	имя	ИМЯ	NOUN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	4	obj	_	_
+3	сладкое	сладкий	ADJ	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	_	2	amod	_	_
+4	сливал	СЛИВАТЬ	VERB	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	0	root	_	_
+5	Со	СО	ADP	_	_	6	case	_	_
+6	словом	СЛОВО	NOUN	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	_	4	obl	_	_
+7	искренней	ИСКРЕННИЙ	ADJ	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	8	amod	_	_
+8	молитвы	МОЛИТВА	NOUN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	6	nmod	_	_
+9	...	...	PUNCT	_	_	4	punct	_	_
+
+# text = А. И. Одоевский. «На грозном приступе, в пылу кровавой битвы...» (1830)
+1	Опять	ОПЯТЬ	ADV	Degree=Pos	_	2	advmod	_	_
+2	увидеть	УВИДЕТЬ	VERB	Aspect=Perf|VerbForm=Inf|Voice=Act	_	22	csubj	_	_
+3	взор	ВЗОР	NOUN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	2	obj	_	_
+4	очей	ОКО	NOUN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	_	3	nmod	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	Услышать	УСЛЫШАТЬ	VERB	Aspect=Imp|VerbForm=Inf|Voice=Act	_	2	conj	_	_
+7	радостные	РАДОСТНЫЙ	ADJ	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	_	8	amod	_	_
+8	звуки	ЗВУК	NOUN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	_	6	obj	_	_
+9	,	,	PUNCT	_	_	6	punct	_	_
+10	Прижать	ПРИЖАТЬ	VERB	Aspect=Imp|VerbForm=Inf|Voice=Act	_	6	conj	_	_
+11	к	К	ADP	_	_	12	case	_	_
+12	устам	УСТА	NOUN	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	_	10	obl	_	_
+13	уста	УСТА	NOUN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	_	10	obj	_	_
+14	и	И	CCONJ	_	_	15	cc	_	_
+15	руки	РУКА	NOUN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	_	13	conj	_	_
+16	Любимой	ЛЮБИМЫЙ	ADJ	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	17	amod	_	_
+17	матери	МАТЬ	NOUN	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	_	13	nmod	_	_
+18	своей	СВОЙ	DET	Case=Gen|Gender=Fem|Number=Sing	_	17	det	_	_
+19	,	,	PUNCT	_	_	25	punct	_	_
+20	--	--	PUNCT	_	_	25	punct	_	_
+21	Вот	ВОТ	PART	_	_	25	advmod	_	_
+22	были	БЫТЬ	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	25	cop	_	_
+23	все	ВЕСЬ	DET	Case=Nom|Number=Plur	_	25	det	_	_
+24	его	ЕГО	DET	_	_	25	det	_	_
+25	желанья	ЖЕЛАНИЕ	NOUN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	_	0	root	_	_
+26	.	.	PUNCT	_	_	3	punct	_	_
+
+# text = А. И. Одоевский. «На грозном приступе, в пылу кровавой битвы...» (1830)
+1	Уже	УЖЕ	ADV	Degree=Pos	_	2	advmod	_	_
+2	минули	МИНУТЬ	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	0	root	_	_
+3	дни	ДЕНЬ	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	_	2	nsubj	_	_
+4	страданья	СТРАДАНЬЕ	NOUN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	3	nmod	_	_
+5	!	!	PUNCT	_	_	2	punct	_	_
+
+# text = А. И. Одоевский. «На грозном приступе, в пылу кровавой битвы...» (1830)
+1	Ее	ОНА	PRON	Case=Acc|Gender=Fem|Number=Sing|Person=3	_	3	obj	_	_
+2	опять	ОПЯТЬ	ADV	Degree=Pos	_	3	advmod	_	_
+3	увидел	УВИДЕТЬ	VERB	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	0	root	_	_
+4	он	ОН	PRON	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	3	nsubj	_	_
+5	;	;	PUNCT	_	_	3	punct	_	_
+
+# text = А. И. Одоевский. «На грозном приступе, в пылу кровавой битвы...» (1830)
+1	Но	НО	CCONJ	_	_	2	cc	_	_
+2	дни	ДЕНЬ	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	_	11	nsubj	_	_
+3	минутные	МИНУТНЫЙ	ADJ	Case=Nom|Degree=Pos|Number=Plur	_	2	amod	_	_
+4	свиданья	СВИДАНЬЕ	NOUN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	2	nmod	_	_
+5	,	,	PUNCT	_	_	11	punct	_	_
+6	Но	НО	CCONJ	_	_	9	cc	_	_
+7	их	ИХ	DET	_	_	9	det	_	_
+8	взаимно-сладкий	ВЗАИМНО-СЛАДКИЙ	ADJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	9	amod	_	_
+9	сон	СОН	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	11	conj	_	_
+10	Едва	ЕДВА	ADV	Degree=Pos	_	11	advmod	_	_
+11	приснился	ПРИСНИТЬСЯ	VERB	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	0	root	_	_
+12	им	они	PRON	Case=Dat|Number=Plur|Person=3	_	11	obl	_	_
+13	...	...	PUNCT	_	_	23	punct	_	_
+14	и	И	CCONJ	_	_	23	cc	_	_
+15	снова	СНОВА	ADV	Degree=Pos	_	23	advmod	_	_
+16	Из-под	ИЗ-ПОД	ADP	_	_	18	case	_	_
+17	семейственного	СЕМЕЙСТВЕННЫЙ	ADJ	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	18	amod	_	_
+18	крова	КРОВ	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	23	obl	_	_
+19	Он	ОН	PRON	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	23	nsubj	_	_
+20	в	В	ADP	_	_	21	case	_	_
+21	край	КРАЙ	NOUN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	23	obl	_	_
+22	восточный	ВОСТОЧНЫЙ	ADJ	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	21	amod	_	_
+23	полетел	ПОЛЕТЕТЬ	VERB	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	11	conj	_	_
+24	;	;	PUNCT	_	_	23	punct	_	_
+
+# text = А. И. Одоевский. «На грозном приступе, в пылу кровавой битвы...» (1830)
+1	Восторгом	ВОСТОРГ	NOUN	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	_	4	nmod	_	_
+2	взор	ВЗОР	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	4	nsubj	_	_
+3	еще	ЕЩЕ	ADV	Degree=Pos	_	4	advmod	_	_
+4	горел	ГОРЕТЬ	VERB	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	0	root	_	_
+5	;	;	PUNCT	_	_	4	punct	_	_
+
+# text = А. И. Одоевский. «На грозном приступе, в пылу кровавой битвы...» (1830)
+1	Еще	ЕЩЕ	ADV	Degree=Pos	_	5	advmod	_	_
+2	от	ОТ	ADP	_	_	4	case	_	_
+3	сладкого	СЛАДКИЙ	ADJ	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	_	4	amod	_	_
+4	волненья	ВОЛНЕНЬЕ	NOUN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	5	obl	_	_
+5	Вздымалась	ВЗДЫМАТЬСЯ	VERB	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Pass	_	0	root	_	_
+6	радостная	РАДОСТНЫЙ	ADJ	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	7	amod	_	_
+7	грудь	ГРУДЬ	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	5	nsubj	_	_
+8	;	;	PUNCT	_	_	5	punct	_	_
+
+# text = А. И. Одоевский. «На грозном приступе, в пылу кровавой битвы...» (1830)
+1	И	И	CCONJ	_	_	4	cc	_	_
+2	,	,	PUNCT	_	_	4	punct	_	_
+3	не	НЕ	PART	_	_	4	advmod	_	_
+4	докончив	ДОКОНЧИТЬ	VERB	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	_	9	advcl	_	_
+5	сновиденья	СНОВИДЕНЬЕ	NOUN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	4	obj	_	_
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	Уже	УЖЕ	ADV	Degree=Pos	_	9	advmod	_	_
+8	он	ОН	PRON	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	9	nsubj	_	_
+9	кончил	КОНЧИТЬ	VERB	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	0	root	_	_
+10	жизни	ЖИЗНЬ	NOUN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	11	nmod	_	_
+11	путь	ПУТЬ	NOUN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	9	obj	_	_
+12	...	...	PUNCT	_	_	10	punct	_	_
+
+# text = А. И. Одоевский. «На грозном приступе, в пылу кровавой битвы...» (1830)
+1	Когда	КОГДА	SCONJ	_	_	7	advmod	_	_
+2	в	В	ADP	_	_	4	case	_	_
+3	последний	ПОСЛЕДНИЙ	ADJ	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	4	amod	_	_
+4	час	ЧАС	NOUN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	7	obl	_	_
+5	из	ИЗ	ADP	_	_	6	case	_	_
+6	уст	УСТА	NOUN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	_	7	obl	_	_
+7	теснился	ТЕСНИТЬСЯ	VERB	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	11	advcl	_	_
+8	дух	ДУХ	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	7	nsubj	_	_
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	Он	ОН	PRON	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	11	nmod	_	_
+11	вспомнил	ВСПОМНИТЬ	VERB	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	0	root	_	_
+12	с	С	ADP	_	_	13	case	_	_
+13	горестью	ГОРЕСТЬ	NOUN	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	_	11	obl	_	_
+14	глубокой	ГЛУБОКИЙ	ADJ	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	_	13	amod	_	_
+15	О	О	ADP	_	_	17	case	_	_
+16	нежной	НЕЖНЫЙ	ADJ	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	_	17	amod	_	_
+17	матери	МАТЬ	NOUN	Animacy=Anim|Case=Loc|Gender=Fem|Number=Sing	_	11	obl	_	_
+18	,	,	PUNCT	_	_	11	punct	_	_
+19	об	ОБ	ADP	_	_	20	case	_	_
+20	узнице	УЗНИЦА	NOUN	Animacy=Anim|Case=Loc|Gender=Fem|Number=Sing	_	17	conj	_	_
+21	далекой	ДАЛЕКИЙ	ADJ	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	_	20	amod	_	_
+22	,	,	PUNCT	_	_	28	punct	_	_
+23	--	--	PUNCT	_	_	28	punct	_	_
+24	И	И	CCONJ	_	_	28	cc	_	_
+25	с	С	ADP	_	_	27	case	_	_
+26	третьим	ТРЕТИЙ	ADJ	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	_	27	amod	_	_
+27	именем	ИМЯ	NOUN	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	_	28	obl	_	_
+28	потух	ПОТУХНУТЬ	VERB	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	11	conj	_	_
+29	.	.	PUNCT	_	_	11	punct	_	_
+
+# text = В. Л. Пушкин. К В. А. Жуковскому : «Товарищ-друг! Ты помнишь ли, что я...» (1830)
+1	Товарищ	ТОВАРИЩ	NOUN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	0	vocative	_	_
+2	-	-	PUNCT	_	_	3	punct	_	_
+3	друг	ДРУГ	NOUN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	1	appos	_	_
+4	!	!	PUNCT	_	_	1	punct	_	_
+
+# text = В. Л. Пушкин. К В. А. Жуковскому : «Товарищ-друг! Ты помнишь ли, что я...» (1830)
+1	Ты	ТЫ	PRON	Case=Nom|Number=Sing|Person=2	_	2	nsubj	_	_
+2	помнишь	ПОМНИТЬ	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	0	root	_	_
+3	ли	ЛИ	PART	_	_	2	advmod	_	_
+4	,	,	PUNCT	_	_	8	punct	_	_
+5	что	ЧТО	SCONJ	_	_	8	mark	_	_
+6	я	Я	PRON	Case=Nom|Number=Sing|Person=1	_	8	nsubj	_	_
+7	Еще	ЕЩЕ	ADV	Degree=Pos	_	8	advmod	_	_
+8	живу	ЖИТЬ	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	2	ccomp	_	_
+9	в	В	ADP	_	_	11	case	_	_
+10	сем	СЕЙ	DET	Case=Loc|Gender=Masc|Number=Sing	_	11	det	_	_
+11	мире	МИР	NOUN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	8	obl	_	_
+12	?	?	PUNCT	_	_	2	punct	_	_
+
+# text = В. Л. Пушкин. К В. А. Жуковскому : «Товарищ-друг! Ты помнишь ли, что я...» (1830)
+1	Что	ЧТО	SCONJ	_	_	8	mark	_	_
+2	были	БЫТЬ	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	8	cop	_	_
+3	в	В	ADP	_	_	4	case	_	_
+4	старину	СТАРИНА	NOUN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	8	obl	_	_
+5	с	С	ADP	_	_	6	case	_	_
+6	тобою	ТЫ	PRON	Case=Ins|Number=Sing|Person=2	_	7	conj	_	_
+7	мы	МЫ	PRON	Case=Nom|Number=Plur|Person=1	_	8	nsubj	_	_
+8	друзья	ДРУГ	NOUN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	_	0	root	_	_
+9	,	,	PUNCT	_	_	18	punct	_	_
+10	Что	ЧТО	SCONJ	_	_	18	mark	_	_
+11	я	Я	PRON	Case=Nom|Number=Sing|Person=1	_	18	nsubj	_	_
+12	на	НА	ADP	_	_	14	case	_	_
+13	скромной	СКРОМНЫЙ	ADJ	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	_	14	amod	_	_
+14	лире	ЛИРА	NOUN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	18	obl	_	_
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	Бывало	БЫВАЛО	ADV	Degree=Pos	_	18	parataxis	_	_
+17	,	,	PUNCT	_	_	16	punct	_	_
+18	воспевал	ВОСПЕВАТЬ	VERB	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	8	conj	_	_
+19	талант	ТАЛАНТ	NOUN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	18	obj	_	_
+20	изящный	ИЗЯЩНЫЙ	ADJ	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	19	amod	_	_
+21	твой	ТВОЙ	DET	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	19	det	_	_
+22	?	?	PUNCT	_	_	2	punct	_	_
+
+# text = В. Л. Пушкин. К В. А. Жуковскому : «Товарищ-друг! Ты помнишь ли, что я...» (1830)
+1	Бывало	БЫВАЛО	ADV	Degree=Pos	_	10	parataxis	_	_
+2	,	,	PUNCT	_	_	4	punct	_	_
+3	часто	ЧАСТО	ADV	Degree=Pos	_	10	advmod	_	_
+4	я	Я	PRON	Case=Nom|Number=Sing|Person=1	_	10	nsubj	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	беседуя	БЕСЕДОВАТЬ	VERB	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	_	10	advcl	_	_
+7	с	С	ADP	_	_	8	case	_	_
+8	тобой	ТЫ	PRON	Case=Ins|Number=Sing|Person=2	_	6	obl	_	_
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	Читал	ЧИТАТЬ	VERB	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	0	root	_	_
+11	твои	ТВОЙ	DET	Animacy=Inan|Case=Acc|Number=Plur	_	12	det	_	_
+12	баллады	БАЛЛАДА	NOUN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	_	10	obj	_	_
+13	и	И	CCONJ	_	_	14	cc	_	_
+14	посланья	ПОСЛАНЬЕ	NOUN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	_	12	conj	_	_
+15	:	:	PUNCT	_	_	12	punct	_	_
+16	Приятные	ПРИЯТНЫЙ	ADJ	Case=Nom|Degree=Pos|Number=Plur	_	22	amod	_	_
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	увы	УВЫ	INTJ	_	_	22	parataxis	_	_
+19	,	,	PUNCT	_	_	18	punct	_	_
+20	для	ДЛЯ	ADP	_	_	21	case	_	_
+21	сердца	СЕРДЦЕ	NOUN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	16	obl	_	_
+22	вспоминанья	ВСПОМИНАНЬЕ	NOUN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	_	10	parataxis	_	_
+23	!	!	PUNCT	_	_	1	punct	_	_
+
+# text = В. Л. Пушкин. К В. А. Жуковскому : «Товарищ-друг! Ты помнишь ли, что я...» (1830)
+1	Теперь	теперь	ADV	_	Degree=Pos	5	advmod	_	_
+2	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	5	nsubj	_	_
+3	некому	некий	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	5	iobj	_	_
+4	души	душа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	5	obj	_	_
+5	передавать	передавать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	_
+6	:	:	PUNCT	_	_	5	punct	_	_
+7	С	с	ADP	_	_	8	case	_	_
+8	тобою	тобой	PRON	_	Case=Ins	16	obl	_	_
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	Вяземским	Вяземский	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	8	conj	_	_
+11	,	,	PUNCT	_	_	16	punct	_	_
+12	со	с	ADP	_	_	13	case	_	_
+13	всеми	весь	DET	_	Case=Ins|Number=Plur	8	conj	_	_
+14	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	16	nsubj	_	_
+15	в	в	ADP	_	_	16	case	_	_
+16	разлуке	разлука	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	parataxis	_	_
+17	;	;	PUNCT	_	_	5	punct	_	SpaceAfter=No
+
+# text = В. Л. Пушкин. К В. А. Жуковскому : «Товарищ-друг! Ты помнишь ли, что я...» (1830)
+1	Мне	Я	PRON	Case=Dat|Number=Sing|Person=1	_	3	nsubj	_	_
+2	суждено	СУЖДЕН	ADJ	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	0	root	_	_
+3	томиться	ТОМИТЬСЯ	VERB	Aspect=Imp|VerbForm=Inf|Voice=Mid	_	2	xcomp	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	горевать	ГОРЕВАТЬ	VERB	Aspect=Imp|VerbForm=Inf|Voice=Act	_	3	conj	_	_
+6	И	И	CCONJ	_	_	8	cc	_	_
+7	дни	ДЕНЬ	NOUN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	_	8	obj	_	_
+8	влачить	ВЛАЧИТЬ	VERB	Aspect=Imp|VerbForm=Inf|Voice=Act	_	5	conj	_	_
+9	в	В	ADP	_	_	10	case	_	_
+10	страданиях	СТРАДАНИЕ	NOUN	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	_	8	obl	_	_
+11	и	И	CCONJ	_	_	12	cc	_	_
+12	скуке	СКУКА	NOUN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	10	conj	_	_
+13	.	.	PUNCT	_	_	3	punct	_	_
+
+# text = В. Л. Пушкин. К В. А. Жуковскому : «Товарищ-друг! Ты помнишь ли, что я...» (1830)
+1	Где	где	ADV	_	Degree=Pos	0	root	_	_
+2	Блудов	Блудов	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+3	?	?	PUNCT	_	_	1	punct	_	SpaceAfter=No
+
+# text = В. Л. Пушкин. К В. А. Жуковскому : «Товарищ-друг! Ты помнишь ли, что я...» (1830)
+1	Где	где	ADV	_	Degree=Pos	0	root	_	_
+2	Дашков	Дашков	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+3	?	?	PUNCT	_	_	1	punct	_	SpaceAfter=No
+
+# text = В. Л. Пушкин. К В. А. Жуковскому : «Товарищ-друг! Ты помнишь ли, что я...» (1830)
+1	Жизнь	ЖИЗНЬ	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	3	obj	_	_
+2	долгу	ДОЛГ	NOUN	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	_	1	iobj	_	_
+3	посвятив	ПОСВЯТИТЬ	VERB	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	_	6	advcl	_	_
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	Они	ОНИ	PRON	Case=Nom|Number=Plur|Person=3	_	6	nsubj	_	_
+6	заботятся	ЗАБОТИТЬСЯ	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	0	root	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	трудятся	ТРУДИТЬСЯ	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	6	conj	_	_
+9	;	;	PUNCT	_	_	1	punct	_	_
+
+# text = В. Л. Пушкин. К В. А. Жуковскому : «Товарищ-друг! Ты помнишь ли, что я...» (1830)
+1	Но	НО	CCONJ	_	_	11	cc	_	_
+2	и	И	PART	_	_	11	advmod:emph	_	_
+3	в	В	ADP	_	_	4	case	_	_
+4	трудах	ТРУД	NOUN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	_	11	obl	_	_
+5	своих	СВОЙ	DET	Case=Loc|Number=Plur	_	4	det	_	_
+6	нередко	НЕРЕДКО	ADV	Degree=Pos	_	11	advmod	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	может	МОЧЬ	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	11	parataxis	_	_
+9	статься	СТАТЬСЯ	VERB	Aspect=Perf|VerbForm=Inf|Voice=Mid	_	8	xcomp	_	_
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	Приходит	ПРИХОДИТЬ	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	0	root	_	_
+12	им	ОНИ	PRON	Case=Dat|Number=Plur|Person=3	_	11	iobj	_	_
+13	на	НА	ADP	_	_	14	case	_	_
+14	мысль	МЫСЛЬ	NOUN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	12	obl	_	_
+15	,	,	PUNCT	_	_	20	punct	_	_
+16	что	ЧТО	SCONJ	_	_	20	mark	_	_
+17	друг	ДРУГ	NOUN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	20	nsubj	_	_
+18	их	ИХ	DET	_	_	17	det	_	_
+19	старый	СТАРЫЙ	ADJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	17	amod	_	_
+20	жив	ЖИВОЙ	ADJ	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	_	11	ccomp	_	_
+21	.	.	PUNCT	_	_	9	punct	_	_
+
+# text = В. Л. Пушкин. К В. А. Жуковскому : «Товарищ-друг! Ты помнишь ли, что я...» (1830)
+1	Я	Я	PRON	Case=Nom|Number=Sing|Person=1	_	2	nsubj	_	_
+2	жив	ЖИВОЙ	ADJ	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	_	0	root	_	_
+3	,	,	PUNCT	_	_	6	punct	_	_
+4	чтоб	ЧТОБ	SCONJ	_	_	6	mark	_	_
+5	вас	ВЫ	PRON	Case=Acc|Number=Plur|Person=2	_	6	obj	_	_
+6	любить	ЛЮБИТЬ	VERB	Aspect=Imp|VerbForm=Inf|Voice=Act	_	2	advcl	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	чтоб	ЧТОБ	SCONJ	_	_	9	mark	_	_
+9	помнить	ПОМНИТЬ	VERB	Aspect=Imp|VerbForm=Inf|Voice=Act	_	6	advcl	_	_
+10	всякий	ВСЯКИЙ	DET	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	11	det	_	_
+11	час	ЧАС	NOUN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	9	obj	_	_
+12	,	,	PUNCT	_	_	16	punct	_	_
+13	Что	ЧТО	PRON	Case=Acc	_	16	mark	_	_
+14	вас	ВЫ	PRON	Case=Acc|Number=Plur|Person=2	_	16	obl	_	_
+15	еще	ЕЩЕ	ADV	Degree=Pos	_	16	advmod	_	_
+16	имею	ИМЕТЬ	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	9	acl	_	_
+17	;	;	PUNCT	_	_	2	punct	_	_
+
+# text = В. Л. Пушкин. К В. А. Жуковскому : «Товарищ-друг! Ты помнишь ли, что я...» (1830)
+1	Благодаря	БЛАГОДАРЯ	ADP	_	_	8	advcl	_	_
+2	судьбу	СУДЬБА	NOUN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	0	root	_	_
+3	,	,	PUNCT	_	_	8	punct	_	_
+4	я	Я	PRON	Case=Nom|Number=Sing|Person=1	_	8	nsubj	_	_
+5	в	В	ADP	_	_	6	case	_	_
+6	чувствах	ЧУВСТВО	NOUN	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	_	8	obl	_	_
+7	не	НЕ	PART	_	_	8	advmod	_	_
+8	хладею	ХЛАДЕТЬ	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	0	root	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+# text = В. Л. Пушкин. К В. А. Жуковскому : «Товарищ-друг! Ты помнишь ли, что я...» (1830)
+1	Молю	МОЛИТЬ	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	0	root	_	_
+2	,	,	PUNCT	_	_	6	punct	_	_
+3	чтоб	ЧТОБ	SCONJ	_	_	6	mark	_	_
+4	небеса	НЕБО	NOUN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	_	5	nsubj	_	_
+5	соединили	СОЕДИНИТЬ	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	1	ccomp	_	_
+6	нас	МЫ	PRON	Case=Acc|Number=Plur|Person=1	_	5	obj	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+# text = В. Л. Пушкин. А. С. Пушкину : «Племянник и поэт! Позволь, чтоб дядя твой...» (1830)
+1	Племянник	ПЛЕМЯННИК	NOUN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	0	vocative	_	_
+2	и	И	CCONJ	_	_	3	cc	_	_
+3	поэт	ПОЭТ	NOUN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	1	conj	_	_
+4	!	!	PUNCT	_	_	1	punct	_	_
+
+# text = В. Л. Пушкин. А. С. Пушкину : «Племянник и поэт! Позволь, чтоб дядя твой...» (1830)
+1	Позволь	ПОЗВОЛИТЬ	VERB	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	_	0	root	_	_
+2	,	,	PUNCT	_	_	4	punct	_	_
+3	чтоб	ЧТОБ	SCONJ	_	_	4	mark	_	_
+4	дядя	ДЯДЯ	NOUN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	10	nsubj	_	_
+5	твой	ТВОЙ	DET	Case=Nom|Gender=Masc|Number=Sing	_	4	det	_	_
+6	На	НА	ADP	_	_	7	case	_	_
+7	старости	СТАРОСТЬ	NOUN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	10	obl	_	_
+8	в	В	ADP	_	_	9	case	_	_
+9	стихах	СТИХ	NOUN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	_	7	nmod	_	_
+10	поговорил	ПОГОВОРИТЬ	VERB	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	1	ccomp	_	_
+11	с	С	ADP	_	_	12	case	_	_
+12	тобой	ТЫ	PRON	Case=Ins|Number=Sing|Person=2	_	10	obl	_	_
+13	.	.	PUNCT	_	_	1	punct	_	_
+
+# text = В. Л. Пушкин. А. С. Пушкину : «Племянник и поэт! Позволь, чтоб дядя твой...» (1830)
+1	Хоть	ХОТЬ	SCONJ	_	_	6	mark	_	_
+2	модный	МОДНЫЙ	ADJ	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	3	amod	_	_
+3	романтизм	РОМАНТИЗМ	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	6	obj	_	_
+4	подчас	ПОДЧАС	ADV	Degree=Pos	_	6	advmod	_	_
+5	я	Я	PRON	Case=Nom|Number=Sing|Person=1	_	6	nsubj	_	_
+6	осуждаю	ОСУЖДАТЬ	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	13	conj	_	_
+7	,	,	PUNCT	_	_	11	punct	_	_
+8	Но	НО	CCONJ	_	_	11	cc	_	_
+9	истинный	ИСТИННЫЙ	ADJ	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	10	amod	_	_
+10	талант	ТАЛАНТ	NOUN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	11	obj	_	_
+11	люблю	ЛЮБИТЬ	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	0	root	_	_
+12	и	И	CCONJ	_	_	13	cc	_	_
+13	уважаю	УВАЖАТЬ	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	11	conj	_	_
+14	.	.	PUNCT	_	_	11	punct	_	_
+
+# text = В. Л. Пушкин. А. С. Пушкину : «Племянник и поэт! Позволь, чтоб дядя твой...» (1830)
+1	Послание	ПОСЛАНИЕ	NOUN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	6	nsubj	_	_
+2	твое	ТВОЙ	DET	Case=Nom|Gender=Neut|Number=Sing	_	1	det	_	_
+3	к	К	ADP	_	_	4	case	_	_
+4	вельможе	ВЕЛЬМОЖА	NOUN	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	_	1	nmod	_	_
+5	есть	БЫТЬ	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	6	cop	_	_
+6	пример	ПРИМЕР	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	0	root	_	_
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	Что	ЧТО	SCONJ	_	_	10	mark	_	_
+9	не	НЕ	PART	_	_	10	advmod	_	_
+10	забыт	ЗАБЫТЬ	VERB	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	_	6	acl	_	_
+11	тобой	ТЫ	PRON	Case=Ins|Number=Sing|Person=2	_	10	obl	_	_
+12	затейливый	ЗАТЕЙЛИВЫЙ	ADJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	13	amod	_	_
+13	Вольтер	ВОЛЬТЕР	PROPN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	10	nsubj:pass	_	_
+14	.	.	PUNCT	_	_	5	punct	_	_
+
+# text = В. Л. Пушкин. А. С. Пушкину : «Племянник и поэт! Позволь, чтоб дядя твой...» (1830)
+1	Ты	ТЫ	PRON	Case=Nom|Number=Sing|Person=2	_	6	nsubj	_	_
+2	остроумие	ОСТРОУМИЕ	NOUN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	6	obj	_	_
+3	и	И	CCONJ	_	_	4	cc	_	_
+4	вкус	ВКУС	NOUN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	2	conj	_	_
+5	его	ЕГО	DET	_	_	4	det	_	_
+6	имеешь	ИМЕТЬ	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	0	root	_	_
+7	И	И	CCONJ	_	_	8	cc	_	_
+8	нравиться	НРАВИТЬСЯ	VERB	Aspect=Imp|VerbForm=Inf|Voice=Mid	_	12	xcomp	_	_
+9	во	ВО	ADP	_	_	10	case	_	_
+10	всем	ВСЕ	PRON	Case=Loc|Gender=Neut|Number=Sing	_	8	obl	_	_
+11	читателю	ЧИТАТЕЛЬ	NOUN	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	_	12	obl	_	_
+12	умеешь	УМЕТЬ	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	6	conj	_	_
+13	.	.	PUNCT	_	_	6	punct	_	_
+
+# text = В. Л. Пушкин. А. С. Пушкину : «Племянник и поэт! Позволь, чтоб дядя твой...» (1830)
+1	Пусть	ПУСТЬ	PART	_	_	2	advmod	_	_
+2	бесится	БЕСИТЬСЯ	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	0	root	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	ворчит	ВОРЧАТЬ	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	2	conj	_	_
+5	московский	МОСКОВСКИЙ	ADJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	6	amod	_	_
+6	Лабомель	ЛАБОМЕЛЬ	PROPN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	4	nsubj	_	_
+7	:	:	PUNCT	_	_	6	punct	_	_
+8	Не	НЕ	PART	_	_	9	advmod	_	_
+9	оставляй	ОСТАВЛЯТЬ	VERB	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	_	4	parataxis	_	_
+10	свою	СВОЙ	DET	Case=Acc|Gender=Fem|Number=Sing	_	12	det	_	_
+11	прелестную	ПРЕЛЕСТНЫЙ	ADJ	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	12	amod	_	_
+12	свирель	СВИРЕЛЬ	NOUN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	9	obj	_	_
+13	!	!	PUNCT	_	_	2	punct	_	_
+
+# text = В. Л. Пушкин. А. С. Пушкину : «Племянник и поэт! Позволь, чтоб дядя твой...» (1830)
+1	Пустые	ПУСТОЙ	ADJ	Case=Nom|Degree=Pos|Number=Plur	_	2	amod	_	_
+2	критики	КРИТИКА	NOUN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	_	5	nsubj	_	_
+3	достоинств	ДОСТОИНСТВО	NOUN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	_	5	obj	_	_
+4	не	НЕ	PART	_	_	5	advmod	_	_
+5	умалят	УМАЛИТЬ	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	_	0	root	_	_
+6	;	;	PUNCT	_	_	2	punct	_	_
+
+# text = В. Л. Пушкин. А. С. Пушкину : «Племянник и поэт! Позволь, чтоб дядя твой...» (1830)
+1	Жуковский	ЖУКОВСКИЙ	PROPN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	6	nsubj	_	_
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	Дмитриев	ДМИТРИЕВ	PROPN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	1	conj	_	_
+4	тебя	ТЫ	PRON	Case=Acc|Number=Sing|Person=2	_	6	obj	_	_
+5	и	И	CCONJ	_	_	6	cc	_	_
+6	чтут	ЧТИТЬ	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	0	root	_	_
+7	и	И	CCONJ	_	_	8	cc	_	_
+8	хвалят	ХВАЛИТЬ	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	6	conj	_	_
+9	;	;	PUNCT	_	_	1	punct	_	
+
+# text = В. Л. Пушкин. А. С. Пушкину : «Племянник и поэт! Позволь, чтоб дядя твой...» (1830)
+1	Крылов	КРЫЛОВ	NOUN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	1	nsubj	_	_
+2	и	И	CCONJ	_	_	3	cc	_	_
+3	Вяземский	ВЯЗЕМСКИЙ	PROPN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	1	conj	_	_
+4	в	В	ADP	_	_	5	case	_	_
+5	числе	ЧИСЛО	NOUN	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	_	0	root	_	_
+6	твоих	ТВОЙ	DET	Case=Gen|Number=Plur	_	7	det	_	_
+7	друзей	ДРУГ	NOUN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	_	5	obl	_	_
+8	;	;	PUNCT	_	_	1	punct	_	_
+
+# text = В. Л. Пушкин. А. С. Пушкину : «Племянник и поэт! Позволь, чтоб дядя твой...» (1830)
+1	Пиши	ПИСАТЬ	VERB	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	_	0	root	_	_
+2	и	И	CCONJ	_	_	3	cc	_	_
+3	утешай	УТЕШАТЬ	VERB	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	_	1	conj	_	_
+4	их	ОНИ	PRON	Case=Acc|Number=Plur|Person=3	_	3	obj	_	_
+5	музою	МУЗА	NOUN	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	_	3	obl	_	_
+6	своей	СВОЙ	DET	Case=Ins|Gender=Fem|Number=Sing	_	5	det	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	Наказывай	НАКАЗЫВАТЬ	VERB	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	_	3	conj	_	_
+9	глупцов	ГЛУПЕЦ	NOUN	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	_	8	obj	_	_
+10	,	,	PUNCT	_	_	8	punct	_	_
+11	не	НЕ	PART	_	_	12	advmod	_	_
+12	говоря	ГОВОРИТЬ	VERB	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	_	14	advcl	_	_
+13	ни	НИ	PART	_	_	14	advmod	_	_
+14	слова	СЛОВО	NOUN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	12	obj	_	_
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	Печатай	ПЕЧАТАТЬ	VERB	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	_	8	conj	_	_
+17	им	ОНИ	PRON	Case=Dat|Number=Plur|Person=3	_	18	iobj	_	_
+18	назло	НАЗЛО	ADV	Degree=Pos	_	17	advmod	_	_
+19	скорее	СКОРО	ADV	Degree=Cmp	_	16	conj	_	_
+20	«	«	PUNCT	_	_	19	punct	_	_
+21	Годунова	ГОДУНОВ	PROPN	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	_	16	щио	_	_
+22	»	»	PUNCT	_	_	21	punct	_	_
+23	.	.	PUNCT	_	_	19	punct	_	_
+
+# text = В. Л. Пушкин. А. С. Пушкину : «Племянник и поэт! Позволь, чтоб дядя твой...» (1830)
+1	Творения	ТВОРЕНИЕ	NOUN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	_	6	nsubj	_	_
+2	твои	ТВОЙ	DET	Case=Nom|Number=Plur	_	1	det	_	_
+3	для	ДЛЯ	ADP	_	_	4	case	_	_
+4	них	ОНИ	PRON	Case=Gen|Number=Plur|Person=3	_	4	obl	_	_
+5	тяжелый	ТЯЖЕЛЫЙ	ADJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	6	amod	_	_
+6	бич	БИЧ	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	0	root	_	_
+7	,	,	PUNCT	_	_	11	punct	_	_
+8	Нибуром	НИБУР	PROPN	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	_	6	conj	_	_
+9	никогда	НИКОГДА	ADV	Degree=Pos	_	11	advmod	_	_
+10	не	НЕ	PART	_	_	11	advmod	_	_
+11	будет	БЫТЬ	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	8	cop	_	_
+12	наш	НАШ	DET	Case=Nom|Gender=Masc|Number=Sing	_	13	det	_	_
+13	москвич	МОСКВИЧ	NOUN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	8	nsubj	_	_
+14	,	,	PUNCT	_	_	16	punct	_	_
+15	И	И	CCONJ	_	_	16	cc	_	_
+16	автор	АВТОР	NOUN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	13	conj	_	_
+17	повести	ПОВЕСТЬ	NOUN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	16	nmod	_	_
+18	топорныя	ТОПОРНЫЙ	ADJ	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	19	amod	_	_
+19	работы	РАБОТА	NOUN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	17	nmod	_	_
+20	Не	НЕ	PART	_	_	21	advmod	_	_
+21	может	МОЧЬ	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	8	conj	_	_
+22	,	,	PUNCT	_	_	25	punct	_	_
+23	кажется	КАЖЕТСЯ	ADV	Degree=Pos	_	21	parataxis	_	_
+24	,	,	PUNCT	_	_	23	punct	_	_
+25	проситься	ПРОСИТЬСЯ	VERB	Aspect=Imp|VerbForm=Inf|Voice=Mid	_	21	xcomp	_	_
+26	в	В	ADP	_	_	28	case	_	_
+27	Вальтер	ВАЛЬТЕР	PROPN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	28	flat	_	_
+28	Скотты	СКОТТ	PROPN	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	_	25	obl	_	_
+29	.	.	PUNCT	_	_	16	punct	_	_
+
+# text = В. Л. Пушкин. А. С. Пушкину : «Племянник и поэт! Позволь, чтоб дядя твой...» (1830)
+1	Довольно	ДОВОЛЬНО	ADV	Degree=Pos	_	0	root	_	_
+2	и	И	PART	_	_	3	advmod	_	_
+3	того	то	PRON	Case=Gen|Gender=Neut|Number=Sing	_	1	iobj	_	_
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	что	ЧТО	SCONJ	_	_	6	mark	_	_
+6	журналист	ЖУРНАЛИСТ	NOUN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	10	nsubj	_	_
+7	сухой	СУХОЙ	ADJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	6	amod	_	_
+8	В	В	ADP	_	_	9	case	_	_
+9	журнале	ЖУРНАЛ	NOUN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	6	nmod	_	_
+10	чтит	ЧТИТЬ	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	1	ccomp	_	_
+11	себя	СЕБЯ	PRON	Case=Acc	_	10	obj	_	_
+12	романтиков	РОМАНТИК	NOUN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	_	12	nmod	_	_
+13	главой	ГЛАВА	NOUN	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	_	10	obl	_	_
+14	.	.	PUNCT	_	_	6	punct	_	_
+
+# text = В. Л. Пушкин. А. С. Пушкину : «Племянник и поэт! Позволь, чтоб дядя твой...» (1830)
+1	Но	НО	CCONJ	_	_	2	cc	_	_
+2	полно	ПОЛНО	ADV	Degree=Pos	_	0	root	_	_
+3	!	!	PUNCT	_	_	2	punct	_	_
+
+# text = В. Л. Пушкин. А. С. Пушкину : «Племянник и поэт! Позволь, чтоб дядя твой...» (1830)
+1	Что	ЧТО	PRON	Case=Nom	_	0	root	_	_
+2	тебе	ТЫ	PRON	Case=Dat|Number=Sing|Person=2	_	1	iobj	_	_
+3	парнасские	ПАРНАССКИЙ	ADJ	Case=Nom|Degree=Pos|Number=Plur	_	4	amod	_	_
+4	пигмеи	ПИГМЕЙ	NOUN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	_	1	nsubj	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	Нелепая	НЕЛЕПЫЙ	ADJ	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	8	amod	_	_
+7	их	ИХ	DET	_	_	8	det	_	_
+8	брань	БРАНЬ	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	4	conj	_	_
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	придирки	ПРИДИРКА	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	_	8	conj	_	_
+11	и	И	CCONJ	_	_	12	cc	_	_
+12	затеи	ЗАТЕЯ	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	_	10	conj	_	_
+13	!	!	PUNCT	_	_	8	punct	_	_
+
+# text = В. Л. Пушкин. А. С. Пушкину : «Племянник и поэт! Позволь, чтоб дядя твой...» (1830)
+1	Счастливцу	СЧАСТЛИВЕЦ	NOUN	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	_	2	nsubj	_	_
+2	некогда	НЕКОГДА	ADV	Degree=Pos	_	0	root	_	_
+3	смеяться	СМЕЯТЬСЯ	VERB	Aspect=Imp|VerbForm=Inf|Voice=Mid	_	2	xcomp	_	_
+4	даже	ДАЖЕ	PART	_	_	3	advmod	_	_
+5	им	они	PRON	Case=Dat|Number=Plur|Person=3	_	3	iobj	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+# text = В. Л. Пушкин. А. С. Пушкину : «Племянник и поэт! Позволь, чтоб дядя твой...» (1830)
+1	Благодаря	БЛАГОДАРИТЬ	VERB	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	_	5	advcl	_	_
+2	судьбу	СУДЬБА	NOUN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	1	obl	_	_
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	ты	ТЫ	PRON	Case=Nom|Number=Sing|Person=2	_	5	nsubj	_	_
+5	любишь	ЛЮБИТЬ	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	0	root	_	_
+6	и	И	CCONJ	_	_	7	cc	_	_
+7	любим	ЛЮБИТЬ	VERB	Aspect=Imp|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Pass	_	5	conj	_	_
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+# text = В. Л. Пушкин. А. С. Пушкину : «Племянник и поэт! Позволь, чтоб дядя твой...» (1830)
+1	Венчанный	ВЕНЧАТЬ	VERB	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	3	acl	_	_
+2	розами	РОЗА	NOUN	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	_	1	obl	_	_
+3	ты	ТЫ	PRON	Case=Nom|Number=Sing|Person=2	_	8	nsubj	_	_
+4	грации	ГРАЦИЯ	NOUN	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	_	5	nmod	_	_
+5	рукою	РУКА	NOUN	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	_	1	obl	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	Вселенную	ВСЕЛЕННАЯ	NOUN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	8	obj	_	_
+8	забыл	ЗАБЫТЬ	VERB	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	0	root	_	_
+9	,	,	PUNCT	_	_	12	punct	_	_
+10	к	К	ADP	_	_	11	case	_	_
+11	ней	ОНА	PRON	Case=Dat|Gender=Fem|Number=Sing|Person=3	_	12	obl	_	_
+12	прилепясь	ПРИЛЕПИТЬСЯ	VERB	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Mid	_	8	advcl	_	_
+13	душою	ДУША	NOUN	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	_	12	obl	_	_
+14	.	.	PUNCT	_	_	8	punct	_	_
+
+# text = В. Л. Пушкин. А. С. Пушкину : «Племянник и поэт! Позволь, чтоб дядя твой...» (1830)
+1	Прелестный	ПРЕЛЕСТНЫЙ	ADJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	2	amod	_	_
+2	взор	ВЗОР	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	5	subj	_	_
+3	ее	ЕЕ	DET	_	_	2	det	_	_
+4	тебя	ТЫ	PRON	Case=Acc|Number=Sing|Person=2	_	5	obj	_	_
+5	животворит	ЖИВОТВОРИТЬ	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	0	root	_	_
+6	И	И	CCONJ	_	_	7	cc	_	_
+7	счастье	СЧАСТЬЕ	NOUN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	12	obj	_	_
+8	прочное	ПРОЧНЫЙ	ADJ	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	_	7	amod	_	_
+9	,	,	PUNCT	_	_	12	punct	_	_
+10	и	И	CCONJ	_	_	11	cc	_	_
+11	радости	РАДОСТЬ	NOUN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	_	7	conj	_	_
+12	сулит	СУЛИТЬ	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	5	conj	_	_
+13	.	.	PUNCT	_	_	5	punct	_	_
+
+# text = В. Л. Пушкин. А. С. Пушкину : «Племянник и поэт! Позволь, чтоб дядя твой...» (1830)
+1	Блаженствуй	БЛАЖЕНСТВОВАТЬ	VERB	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	_	0	root	_	_
+2	,	,	PUNCT	_	_	9	punct	_	_
+3	но	НО	CCONJ	_	_	9	cc	_	_
+4	в	В	ADP	_	_	5	case	_	_
+5	часы	ЧАС	NOUN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	_	9	obl	_	_
+6	свободы	СВОБОДА	NOUN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	5	nmod	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	вдохновенья	ВДОХНОВЕНЬЕ	NOUN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	6	nmod	_	_
+9	Беседуй	БЕСЕДОВАТЬ	VERB	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	_	1	conj	_	_
+10	с	С	ADP	_	_	11	case	_	_
+11	музами	МУЗА	NOUN	Animacy=Anim|Case=Ins|Gender=Fem|Number=Plur	_	9	obl	_	_
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	пиши	ПИСАТЬ	VERB	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	_	9	conj	_	_
+14	стихотворенья	СТИХОТВОРЕНЬЕ	NOUN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	_	13	obj	_	_
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	Словесность	СЛОВЕСНОСТЬ	NOUN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	20	obj	_	_
+17	русскую	РУССКИЙ	ADJ	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	16	amod	_	_
+18	,	,	PUNCT	_	_	19	punct	_	_
+19	язык	ЯЗЫК	NOUN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	16	conj	_	_
+20	обогащай	ОБОГАЩАТЬ	VERB	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	_	13	conj	_	_
+21	И	И	CCONJ	_	_	27	cc	_	_
+22	вечно	ВЕЧНО	ADV	Degree=Pos	_	27	advmod	_	_
+23	с	С	ADP	_	_	24	case	_	_
+24	миртами	МИРТ	NOUN	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	_	27	obl	_	_
+25	ты	ТЫ	PRON	Case=Nom|Number=Sing|Person=2	_	27	nsubj	_	_
+26	лавры	ЛАВР	NOUN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	_	27	obj	_	_
+27	съединяй	СЪЕДИНЯТЬ	VERB	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	_	20	conj	_	_
+28	.	.	PUNCT	_	_	27	punct	_	_
+
+# text = П. С. Бобрищев-Пушкин. Изгнанник к своим родителям : «Друзья, есть Бог, есть наше счастье...» (1830)
+1	Друзья	ДРУГ	NOUN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	_	3	vocative	_	_
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	есть	БЫТЬ	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	0	root	_	_
+4	Бог	БОГ	NOUN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	3	nsubj	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	есть	БЫТЬ	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	3	conj	_	_
+7	наше	НАШ	DET	Case=Nom|Gender=Neut|Number=Sing	_	8	det	_	_
+8	счастье	СЧАСТЬЕ	NOUN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	6	nsubj	_	_
+9	Не	НЕ	PART	_	_	12	advmod	_	_
+10	в	В	ADP	_	_	12	case	_	_
+11	здешнем	ЗДЕШНИЙ	ADJ	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	_	12	amod	_	_
+12	мире	МИР	NOUN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	8	obl	_	_
+13	,	,	PUNCT	_	_	15	punct	_	_
+14	в	В	ADP	_	_	15	case	_	_
+15	небесах	НЕБО	NOUN	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	_	12	conj	_	_
+16	,	,	PUNCT	_	_	17	punct	_	_
+17	Бог	БОГ	NOUN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	20	nsubj	_	_
+18	в	В	ADP	_	_	21	case	_	_
+19	страждущих	СТРАДАТЬ	VERB	Aspect=Imp|Case=Loc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	_	21	amod	_	_
+20	живет	ЖИТЬ	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	6	conj	_	_
+21	душах	ДУША	NOUN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	_	20	obl	_	_
+22	.	.	PUNCT	_	_	1	punct	_	_
+
+# text = П. С. Бобрищев-Пушкин. Изгнанник к своим родителям : «Друзья, есть Бог, есть наше счастье...» (1830)
+1	Пройдет	ПРОЙТИ	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	_	0	root	_	_
+2	мгновенное	МГНОВЕННЫЙ	ADJ	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	3	amod	_	_
+3	ненастье	НЕНАСТЬЕ	NOUN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	1	nsubj	_	_
+4	,	,	PUNCT	_	_	7	punct	_	_
+5	Чтоб	ЧТОБ	SCONJ	_	_	7	mark	_	_
+6	нам	МЫ	PRON	Case=Dat|Number=Plur|Person=1	_	7	iobj	_	_
+7	явить	ЯВИТЬ	VERB	Aspect=Perf|VerbForm=Inf|Voice=Act	_	1	advcl	_	_
+8	светлее	светлый	ADV	Degree=Cmp	_	9	advmod	_	_
+9	день	ДЕНЬ	NOUN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	7	obj	_	_
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	Когда	КОГДА	SCONJ	_	_	12	mark	_	_
+12	дойдет	ДОЙТИ	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	_	7	advcl	_	_
+13	до	ДО	ADP	_	_	15	case	_	_
+14	жданной	ЖДАТЬ	VERB	Aspect=Imp|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	15	amod	_	_
+15	меты	МЕТА	NOUN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	12	obl	_	_
+16	,	,	PUNCT	_	_	22	punct	_	_
+17	Как	КАК	SCONJ	_	_	22	mark	_	_
+18	резкая	РЕЗКИЙ	ADJ	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	21	amod	_	_
+19	в	В	ADP	_	_	20	case	_	_
+20	картине	КАРТИНА	NOUN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	22	obl	_	_
+21	тень	ТЕНЬ	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	22	nsubj	_	_
+22	Бросает	БРОСАТЬ	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	15	advcl	_	_
+23	живость	ЖИВОСТЬ	NOUN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	22	obj	_	_
+24	на	НА	ADP	_	_	25	case	_	_
+25	предметы	ПРЕДМЕТ	NOUN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	_	23	obl	_	_
+26	И	И	CCONJ	_	_	28	cc	_	_
+27	краски	КРАСКА	NOUN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	_	28	obj	_	_
+28	выдает	ВЫДАВАТЬ	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	22	conj	_	_
+29	ясней	ЯСНЫЙ	ADV	Degree=Cmp	_	28	advmod	_	_
+30	.	.	PUNCT	_	_	29	punct	_	_
+
+# text = П. С. Бобрищев-Пушкин. Изгнанник к своим родителям : «Друзья, есть Бог, есть наше счастье...» (1830)
+1	Итак	ИТАК	ADV	Degree=Pos	_	7	parataxis	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	друзья	ДРУГ	NOUN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	_	7	vocative	_	_
+4	мои	МОЙ	DET	Case=Nom|Number=Plur	_	3	det	_	_
+5	любезны	ЛЮБЕЗНЫЙ	ADJ	Degree=Pos|Number=Plur|Variant=Short	_	3	amod	_	_
+6	,	,	PUNCT	_	_	3	punct	_	_
+7	Оставим	ОСТАВИТЬ	VERB	Aspect=Perf|Mood=Imp|Number=Plur|Person=1|VerbForm=Fin|Voice=Act	_	0	root	_	_
+8	ропот	РОПОТ	NOUN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	7	obj	_	_
+9	бесполезный	БЕСПОЛЕЗНЫЙ	ADJ	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	8	amod	_	_
+10	.	.	PUNCT	_	_	7	punct	_	_
+
+# text = П. С. Бобрищев-Пушкин. Изгнанник к своим родителям : «Друзья, есть Бог, есть наше счастье...» (1830)
+1	У	У	ADP	_	_	2	case	_	_
+2	Дародателя	ДАРОДАТЕЛЬ	NOUN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	_	4	obl	_	_
+3	людей	ЧЕЛОВЕК	NOUN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	_	2	nmod	_	_
+4	Испросим	ИСПРОСИТЬ	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	0	root	_	_
+5	к	К	ADP	_	_	6	case	_	_
+6	подвигам	ПОДВИГ	NOUN	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	_	7	obl	_	_
+7	терпенья	ТЕРПЕНЬЕ	NOUN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	4	obl	_	_
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	Надеждой	НАДЕЖДА	NOUN	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	_	11	obl	_	_
+10	души	ДУША	NOUN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	11	obj	_	_
+11	оживём	ОЖИТЬ	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	4	conj	_	_
+12	,	,	PUNCT	_	_	20	punct	_	_
+13	Доколе	ДОКОЛЕ	ADV	Degree=Pos	_	20	advmod	_	_
+14	в	В	ADP	_	_	16	case	_	_
+15	вечные	ВЕЧНЫЙ	ADJ	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	_	16	amod	_	_
+16	селенья	СЕЛЕНЬЕ	NOUN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	_	20	obl	_	_
+17	Душой	ДУША	NOUN	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	_	20	obl	_	_
+18	свободной	СВОБОДНЫЙ	ADJ	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	_	17	amod	_	_
+19	не	НЕ	PART	_	_	20	advmod	_	_
+20	взойдем	ВЗОЙТИ	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	11	advcl	_	_
+21	.	.	PUNCT	_	_	2	punct	_	_
+
+# text = П. С. Бобрищев-Пушкин. Изгнанник к своим родителям : «Друзья, есть Бог, есть наше счастье...» (1830)
+1	Блажен	БЛАЖЕННЫЙ	ADJ	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	_	0	root	_	_
+2	,	,	PUNCT	_	_	7	punct	_	_
+3	кто	КТО	PRON	Case=Nom	_	11	nsubj	_	_
+4	в	В	ADP	_	_	6	case	_	_
+5	сей	СЕЙ	DET	Case=Loc|Gender=Fem|Number=Sing	_	6	det	_	_
+6	земле	ЗЕМЛЯ	NOUN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	11	obl	_	_
+7	страстей	СТРАСТЬ	NOUN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	_	6	nmod	_	_
+8	На	НА	ADP	_	_	9	case	_	_
+9	нивах	НИВА	NOUN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	_	11	obl	_	_
+10	сердца	СЕРДЦЕ	NOUN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	9	nmod	_	_
+11	сеял	СЕЯТЬ	VERB	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	1	acl:rel	_	_
+12	слезы	СЛЕЗА	NOUN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	_	11	obj	_	_
+13	,	,	PUNCT	_	_	16	punct	_	_
+14	Тому	ТОТ	DET	Case=Dat|Gender=Masc|Number=Sing	_	25	iobj	_	_
+15	ни	НИ	CCONJ	_	_	16	cc	_	_
+16	бури	БУРЯ	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	_	25	nsubj	_	_
+17	,	,	PUNCT	_	_	19	punct	_	_
+18	ни	НИ	CCONJ	_	_	19	cc	_	_
+19	морозы	МОРОЗ	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	_	16	conj	_	_
+20	В	В	ADP	_	_	21	case	_	_
+21	день	ДЕНЬ	NOUN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	25	obl	_	_
+22	жатвы	ЖАТВА	NOUN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	21	nmod	_	_
+23	той	ТОТ	DET	Case=Gen|Gender=Fem|Number=Sing	_	22	det	_	_
+24	не	НЕ	PART	_	_	25	advmod	_	_
+25	повредят	ПОВРЕДИТЬ	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	_	1	conj	_	_
+26	;	;	PUNCT	_	_	1	punct	_	_
+
+# text = П. С. Бобрищев-Пушкин. Изгнанник к своим родителям : «Друзья, есть Бог, есть наше счастье...» (1830)
+1	Но	НО	CCONJ	_	_	5	cc	_	_
+2	к	К	ADP	_	_	4	case	_	_
+3	новой	НОВЫЙ	ADJ	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	_	4	amod	_	_
+4	жизни	ЖИЗНЬ	NOUN	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	_	5	obl	_	_
+5	возвратят	ВОЗВРАТИТЬ	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	_	0	root	_	_
+6	В	В	ADP	_	_	7	case	_	_
+7	скорбях	СКОРБЬ	NOUN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	_	5	obl	_	_
+8	посеянные	ПОСЕЯТЬ	VERB	Animacy=Inan|Aspect=Perf|Case=Acc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	9	amod	_	_
+9	слезы	СЛЕЗА	NOUN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	5	nsubj	_	_
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+# text = П. С. Бобрищев-Пушкин. Изгнанник к своим родителям : «Друзья, есть Бог, есть наше счастье...» (1830)
+1	Вы	ВЫ	PRON	Case=Nom|Number=Plur|Person=2	_	3	nsubj	_	_
+2	не	НЕ	PART	_	_	3	advmod	_	_
+3	печальтесь	ПЕЧАЛИТЬСЯ	VERB	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Mid	_	0	root	_	_
+4	обо	ОБО	ADP	_	_	5	case	_	_
+5	мне	Я	PRON	Case=Loc|Number=Sing|Person=1	_	3	obl	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	Друзья	ДРУГ	NOUN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	_	3	parataxis	_	_
+8	мне	Я	PRON	Case=Dat|Number=Sing|Person=1	_	7	iobj	_	_
+9	сердцем	СЕРДЦЕ	NOUN	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	_	8	nmod	_	_
+10	и	И	CCONJ	_	_	11	cc	_	_
+11	душою	ДУША	NOUN	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	_	9	conj	_	_
+12	;	;	PUNCT	_	_	3	punct	_	_
+
+# text = П. С. Бобрищев-Пушкин. Изгнанник к своим родителям : «Друзья, есть Бог, есть наше счастье...» (1830)
+1	Я	Я	PRON	Case=Nom|Number=Sing|Person=1	_	2	nsubj	_	_
+2	незнаком	НЕЗНАКОМЫЙ	ADJ	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	_	0	root	_	_
+3	еще	ЕЩЕ	ADV	Degree=Pos	_	2	advmod	_	_
+4	с	С	ADP	_	_	5	case	_	_
+5	тоскою	ТОСКА	NOUN	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	_	2	obl	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	Живя	ЖИТЬ	VERB	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	_	5	advcl	_	_
+8	изгнанником	ИЗГНАННИК	NOUN	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	_	7	obl	_	_
+9	в	В	ADP	_	_	10	case	_	_
+10	стране	СТРАНА	NOUN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	8	obl	_	_
+11	;	;	PUNCT	_	_	1	punct	_	_
+
+# text = П. С. Бобрищев-Пушкин. Изгнанник к своим родителям : «Друзья, есть Бог, есть наше счастье...» (1830)
+1	Благодарю	БЛАГОДАРИТЬ	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	0	root	_	_
+2	Творца	ТВОРЕЦ	NOUN	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	_	1	obj	_	_
+3	стократно	СТОКРАТНО	ADV	Degree=Pos	_	1	advmod	_	_
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	Не	НЕ	PART	_	_	6	advmod	_	_
+6	жажду	ЖАЖДАТЬ	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	1	conj	_	_
+7	в	В	ADP	_	_	8	case	_	_
+8	мире	МИР	NOUN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	6	obl	_	_
+9	ничего	НИЧТО	PRON	Case=Gen	_	6	obj	_	_
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	И	И	CCONJ	_	_	12	cc	_	_
+12	предаюся	ПРЕДАВАТЬСЯ	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	_	6	conj	_	_
+13	безвозвратно	БЕЗВОЗВРАТНО	ADV	Degree=Pos	_	12	advmod	_	_
+14	Я	Я	PRON	Case=Nom|Number=Sing|Person=1	_	12	nsubj	_	_
+15	в	В	ADP	_	_	16	case	_	_
+16	милосердие	МИЛОСЕРДИЕ	NOUN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	12	obl	_	_
+17	Его	ЕГО	DET	_	_	16	det	_	_
+18	.	.	PUNCT	_	_	12	punct	_	_
+
+# text = П. С. Бобрищев-Пушкин. Изгнанник к своим родителям : «Друзья, есть Бог, есть наше счастье...» (1830)
+1	И	И	CCONJ	_	_	5	cc	_	_
+2	лишь	ЛИШЬ	PART	_	_	4	advmod	_	_
+3	о	О	ADP	_	_	4	case	_	_
+4	вас	ВЫ	PRON	Case=Loc|Number=Plur|Person=2	_	5	obl	_	_
+5	тревога	ТРЕВОГА	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	0	root	_	_
+6	--	--	PUNCT	_	_	9	punct	_	_
+7	Лишь	ЛИШЬ	PART	_	_	8	advmod	_	_
+8	одного	ОДИН	DET	Case=Gen|Gender=Neut|Number=Sing	_	9	obj	_	_
+9	прошу	ПРОСИТЬ	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	5	parataxis	_	_
+10	у	У	ADP	_	_	11	case	_	_
+11	Бога	БОГ	NOUN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	_	9	obl	_	_
+12	,	,	PUNCT	_	_	15	punct	_	_
+13	Чтобы	ЧТОБЫ	SCONJ	_	_	13	mark	_	_
+14	спокойны	СПОКОЙНЫЙ	ADJ	Degree=Pos|Number=Plur|Variant=Short	_	9	xcomp	_	_
+15	были	БЫТЬ	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	14	cop	_	_
+16	вы	ВЫ	PRON	Case=Nom|Number=Plur|Person=2	_	15	nsubj	_	_
+17	;	;	PUNCT	_	_	9	punct	_	_
+
+# text = П. С. Бобрищев-Пушкин. Изгнанник к своим родителям : «Друзья, есть Бог, есть наше счастье...» (1830)
+1	А	А	CCONJ	_	_	12	cc	_	_
+2	я	Я	PRON	Case=Nom|Number=Sing|Person=1	_	12	nsubj	_	_
+3	из	ИЗ	ADP	_	_	6	case	_	_
+4	дальней	ДАЛЬНИЙ	ADJ	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	6	amod	_	_
+5	сей	СЕЙ	DET	Case=Gen|Gender=Fem|Number=Sing	_	6	det	_	_
+6	страны	СТРАНА	NOUN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	12	obl	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	Исполняся	ИСПОЛНИТЬСЯ	VERB	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Mid	_	6	advcl	_	_
+9	святой	СВЯТОЙ	ADJ	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	10	amod	_	_
+10	отваги	ОТВАГА	NOUN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	8	obl	_	_
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	Одушевлю	ОДУШЕВИТЬ	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	0	root	_	_
+13	сей	СЕЙ	DET	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	14	det	_	_
+14	лист	ЛИСТ	NOUN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	12	obj	_	_
+15	бумаги	БУМАГА	NOUN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	14	nmod	_	_
+16	,	,	PUNCT	_	_	18	punct	_	_
+17	Сыновним	СЫНОВНИЙ	ADJ	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	_	18	amod	_	_
+18	чувством	ЧУВСТВО	NOUN	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	_	14	obl	_	_
+19	напою	НАПОИТЬ	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	12	conj	_	_
+20	;	;	PUNCT	_	_	12	punct	_	_
+
+# text = П. С. Бобрищев-Пушкин. Изгнанник к своим родителям : «Друзья, есть Бог, есть наше счастье...» (1830)
+1	На	НА	ADP	_	_	3	case	_	_
+2	милу	МИЛЫЙ	ADJ	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	_	3	amod	_	_
+3	родину	РОДИНА	NOUN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	4	obl	_	_
+4	пошлю	ПОСЛАТЬ	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	0	root	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	Тем	то	PRON	Case=Ins|Gender=Neut|Number=Sing	_	7	obl	_	_
+7	усладив	УСЛАДИТЬ	VERB	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	_	4	advcl	_	_
+8	разлуку	РАЗЛУКА	NOUN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	7	obj	_	_
+9	нашу	НАШ	DET	Case=Acc|Gender=Fem|Number=Sing	_	8	det	_	_
+10	,	,	PUNCT	_	_	19	punct	_	_
+11	И	И	CCONJ	_	_	19	cc	_	_
+12	в	В	ADP	_	_	15	case	_	_
+13	вашу	ВАШ	DET	Case=Acc|Gender=Fem|Number=Sing	_	15	det	_	_
+14	горестную	ГОРЕСТНЫЙ	ADJ	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	15	amod	_	_
+15	чашу	ЧАША	NOUN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	19	obl	_	_
+16	Хоть	ХОТЬ	SCONJ	_	_	17	mark	_	_
+17	каплю	КАПЛЯ	NOUN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	19	obj	_	_
+18	радости	РАДОСТЬ	NOUN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	17	nsubj	_	_
+19	волью	ВЛИТЬ	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	4	conj	_	_
+20	.	.	PUNCT	_	_	6	punct	_	_
+
+# text = А. И. Одоевский. «Что за кочевья чернеются...» (1830)
+1	Что	ЧТО	PRON	Case=Nom	_	3	nmod	_	_
+2	за	ЗА	ADP	_	_	1	fixed	_	_
+3	кочевья	КОЧЕВЬЕ	NOUN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	_	4	nsubj	_	_
+4	чернеются	ЧЕРНЕТЬСЯ	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	0	root	_	_
+5	Средь	СРЕДЬ	ADP	_	_	7	case	_	_
+6	пылающих	ПЫЛАТЬ	VERB	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	_	7	amod	_	_
+7	огней	ОГОНЬ	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	_	4	obl	_	_
+8	?	?	PUNCT	_	_	1	punct	_	_
+
+# text = А. И. Одоевский. «Что за кочевья чернеются...» (1830)
+1	--	--	PUNCT	_	_	5	punct	_	_
+2	Идут	ИДТИ	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	0	root	_	_
+3	под	ПОД	ADP	_	_	4	case	_	_
+4	затворы	ЗАТВОР	NOUN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	_	2	obl	_	_
+5	молодцы	МОЛОДЕЦ	NOUN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	_	2	nsubj	_	_
+6	За	ЗА	ADP	_	_	8	case	_	_
+7	святую	СВЯТОЙ	ADJ	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	8	amod	_	_
+8	Русь	РУСЬ	PROPN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	2	obl	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+# text = А. И. Одоевский. «Что за кочевья чернеются...» (1830)
+1	За	ЗА	ADP	_	_	3	case	_	_
+2	святую	СВЯТОЙ	ADJ	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	3	amod	_	_
+3	Русь	РУСЬ	PROPN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	4	obl	_	_
+4	неволя	НЕВОЛЯ	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	8	nsubj	_	_
+5	и	И	CCONJ	_	_	6	cc	_	_
+6	казни	КАЗНЬ	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	_	4	conj	_	_
+7	--	--	PUNCT	_	_	8	punct	_	_
+8	Радость	РАДОСТЬ	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	0	root	_	_
+9	и	И	CCONJ	_	_	10	cc	_	_
+10	слава	СЛАВА	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	8	conj	_	_
+11	!	!	PUNCT	_	_	8	punct	_	_
+
+# text = А. И. Одоевский. «Что за кочевья чернеются...» (1830)
+1	Весело	ВЕСЕЛО	ADV	Degree=Pos	_	2	advmod	_	_
+2	ляжем	ЛЕЧЬ	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	0	root	_	_
+3	живые	ЖИВОЙ	ADJ	Case=Nom|Degree=Pos|Number=Plur	_	2	acl	_	_
+4	За	ЗА	ADP	_	_	6	case	_	_
+5	святую	СВЯТОЙ	ADJ	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	6	amod	_	_
+6	Русь	РУСЬ	PROPN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	2	obl	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+# text = А. И. Одоевский. «Что за кочевья чернеются...» (1830)
+1	Дикие	ДИКИЙ	ADJ	Case=Nom|Degree=Pos|Number=Plur	_	2	amod	_	_
+2	кони	КОНЬ	NOUN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	_	3	nsubj:pass	_	_
+3	стреножены	СТРЕНОЖИТЬ	VERB	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	_	0	root	_	_
+4	Дремлет	ДРЕМАТЬ	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	3	conj	_	_
+5	дикий	ДИКИЙ	ADJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	7	amod	_	_
+6	их	ИХ	DET	_	_	7	det	_	_
+7	пастух	ПАСТУХ	NOUN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	4	nsubj	_	_
+8	;	;	PUNCT	_	_	3	punct	_	_
+
+# text = А. И. Одоевский. «Что за кочевья чернеются...» (1830)
+1	В	В	ADP	_	_	2	case	_	_
+2	юртах	ЮРТА	NOUN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	3	obl	_	_
+3	засыпая	ЗАСЫПАТЬ	VERB	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	_	6	advcl	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	узники	УЗНИК	NOUN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	_	6	nsubj	_	_
+6	Видят	ВИДЕТЬ	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	0	root	_	_
+7	Русь	РУСЬ	PROPN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	6	obj	_	_
+8	во	ВО	ADP	_	_	9	case	_	_
+9	сне	СОН	NOUN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	6	obl	_	_
+10	.	.	PUNCT	_	_	6	punct	_	_
+
+# text = А. И. Одоевский. «Что за кочевья чернеются...» (1830)
+1	За	ЗА	ADP	_	_	3	case	_	_
+2	святую	СВЯТОЙ	ADJ	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	3	amod	_	_
+3	Русь	РУСЬ	PROPN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	4	obl	_	_
+4	неволя	НЕВОЛЯ	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	8	nsubj	_	_
+5	и	И	CCONJ	_	_	6	cc	_	_
+6	казни	КАЗНЬ	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	_	4	conj	_	_
+7	--	--	PUNCT	_	_	8	punct	_	_
+8	Радость	РАДОСТЬ	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	0	root	_	_
+9	и	И	CCONJ	_	_	10	cc	_	_
+10	слава	СЛАВА	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	8	conj	_	_
+11	!	!	PUNCT	_	_	8	punct	_	_
+
+# text = А. И. Одоевский. «Что за кочевья чернеются...» (1830)
+1	Весело	ВЕСЕЛО	ADV	Degree=Pos	_	2	advmod	_	_
+2	ляжем	ЛЕЧЬ	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	0	root	_	_
+3	живые	ЖИВОЙ	ADJ	Case=Nom|Degree=Pos|Number=Plur	_	2	acl	_	_
+4	За	ЗА	ADP	_	_	6	case	_	_
+5	святую	СВЯТОЙ	ADJ	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	6	amod	_	_
+6	Русь	РУСЬ	PROPN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	2	obl	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+# text = А. И. Одоевский. «Что за кочевья чернеются...» (1830)
+1	Шепчут	ШЕПТАТЬ	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	0	root	_	_
+2	деревья	ДЕРЕВО	NOUN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	_	1	nsubj	_	_
+3	над	НАД	ADP	_	_	4	case	_	_
+4	юртами	ЮРТА	NOUN	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	_	2	obl	_	_
+5	,	,	PUNCT	_	_	8	punct	_	_
+6	Стража	СТРАЖ	NOUN	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	_	7	nsubj	_	_
+7	окликает	ОКЛИКАТЬ	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	1	conj	_	_
+8	страж	СТРАЖ	NOUN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	7	obj	_	_
+9	,	,	PUNCT	_	_	14	punct	_	_
+10	--	--	PUNCT	_	_	14	punct	_	_
+11	Вещий	ВЕЩИЙ	ADJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	12	amod	_	_
+12	голос	ГОЛОС	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	14	nsubj:pass	_	_
+13	сонным	СОННЫЙ	ADJ	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	_	14	acl	_	_
+14	слышится	СЛЫШАТЬСЯ	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	7	parataxis	_	_
+15	С	С	ADP	_	_	16	case	_	_
+16	родины	РОДИНА	NOUN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	14	obl	_	_
+17	святой	СВЯТОЙ	ADJ	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	16	amod	_	_
+18	.	.	PUNCT	_	_	1	punct	_	_
+
+# text = А. И. Одоевский. «Что за кочевья чернеются...» (1830)
+1	За	ЗА	ADP	_	_	3	case	_	_
+2	святую	СВЯТОЙ	ADJ	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	3	amod	_	_
+3	Русь	РУСЬ	PROPN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	4	obl	_	_
+4	неволя	НЕВОЛЯ	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	8	nsubj	_	_
+5	и	И	CCONJ	_	_	6	cc	_	_
+6	казни	КАЗНЬ	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	_	4	conj	_	_
+7	--	--	PUNCT	_	_	8	punct	_	_
+8	Радость	РАДОСТЬ	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	0	root	_	_
+9	и	И	CCONJ	_	_	10	cc	_	_
+10	слава	СЛАВА	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	8	conj	_	_
+11	!	!	PUNCT	_	_	8	punct	_	_
+
+# text = А. И. Одоевский. «Что за кочевья чернеются...» (1830)
+1	Весело	ВЕСЕЛО	ADV	Degree=Pos	_	2	advmod	_	_
+2	ляжем	ЛЕЧЬ	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	0	root	_	_
+3	живые	ЖИВОЙ	ADJ	Case=Nom|Degree=Pos|Number=Plur	_	2	acl	_	_
+4	За	ЗА	ADP	_	_	6	case	_	_
+5	святую	СВЯТОЙ	ADJ	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	6	amod	_	_
+6	Русь	РУСЬ	PROPN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	2	obl	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+# text = А. И. Одоевский. «Что за кочевья чернеются...» (1830)
+1	Зыблется	ЗЫБИТЬСЯ	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	_	0	root	_	_
+2	светом	СВЕТ	NOUN	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	_	3	obl	_	_
+3	объятая	ОБЪЯТЬ	VERB	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	5	amod	_	_
+4	Сосен	СОСНА	NOUN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	_	5	nmod	_	_
+5	цепь	ЦЕПЬ	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	1	nsubj	_	_
+6	над	НАД	ADP	_	_	7	case	_	_
+7	рядом	ряд	NOUN	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	_	1	obl	_	_
+8	юрт	ЮРТА	NOUN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	_	7	nmod	_	_
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+# text = А. И. Одоевский. «Что за кочевья чернеются...» (1830)
+1	Звезды	ЗВЕЗДА	NOUN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	2	nsubj	_	_
+2	светлы	СВЕТЛЫЙ	ADJ	Degree=Pos|Number=Plur|Variant=Short	_	0	root	_	_
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	как	КАК	SCONJ	_	_	5	case	_	_
+5	видения	ВИДЕНИЕ	NOUN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	_	2	obl	_	_
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	Под	ПОД	ADP	_	_	8	case	_	_
+8	навесом	НАВЕС	NOUN	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	_	2	obl	_	_
+9	юрт	ЮРТА	NOUN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	_	8	nmod	_	_
+10	.	.	PUNCT	_	_	1	punct	_	_
+
+# text = А. И. Одоевский. «Что за кочевья чернеются...» (1830)
+1	За	ЗА	ADP	_	_	3	case	_	_
+2	святую	СВЯТОЙ	ADJ	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	3	amod	_	_
+3	Русь	РУСЬ	PROPN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	4	obl	_	_
+4	неволя	НЕВОЛЯ	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	8	nsubj	_	_
+5	и	И	CCONJ	_	_	6	cc	_	_
+6	казни	КАЗНЬ	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	_	4	conj	_	_
+7	--	--	PUNCT	_	_	8	punct	_	_
+8	Радость	РАДОСТЬ	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	0	root	_	_
+9	и	И	CCONJ	_	_	10	cc	_	_
+10	слава	СЛАВА	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	8	conj	_	_
+11	!	!	PUNCT	_	_	8	punct	_	_
+
+# text = А. И. Одоевский. «Что за кочевья чернеются...» (1830)
+1	Весело	ВЕСЕЛО	ADV	Degree=Pos	_	2	advmod	_	_
+2	ляжем	ЛЕЧЬ	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	0	root	_	_
+3	живые	ЖИВОЙ	ADJ	Case=Nom|Degree=Pos|Number=Plur	_	2	acl	_	_
+4	За	ЗА	ADP	_	_	6	case	_	_
+5	святую	СВЯТОЙ	ADJ	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	6	amod	_	_
+6	Русь	РУСЬ	PROPN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	2	obl	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+# text = А. И. Одоевский. «Что за кочевья чернеются...» (1830)
+1	Спите	СПАТЬ	VERB	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	_	0	root	_	_
+2	,	,	PUNCT	_	_	4	punct	_	_
+3	[	[	PUNCT	_	_	4	punct	_	_
+4	равнины	РАВНИНА	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	_	1	nsubj	_	_
+5	]	]	PUNCT	_	_	6	punct	_	_
+6	угрюмые	УГРЮМЫЙ	ADJ	Case=Nom|Degree=Pos|Number=Plur	_	4	amod	_	_
+7	!	!	PUNCT	_	_	1	punct	_	_
+
+# text = А. И. Одоевский. «Что за кочевья чернеются...» (1830)
+1	Вы	ВЫ	PRON	Case=Nom|Number=Plur|Person=2	_	2	nsubj	_	_
+2	забыли	ЗАБЫТЬ	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	0	root	_	_
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	как	КАК	ADV	Degree=Pos	_	5	advmod	_	_
+5	поют	ПЕТЬ	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	2	ccomp	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+# text = А. И. Одоевский. «Что за кочевья чернеются...» (1830)
+1	Пробудитесь	ПРОБУДИТЬСЯ	VERB	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Mid	_	0	root	_	_
+2	!..	!..	PUNCT	_	_	1	punct	_	_
+
+# text = А. И. Одоевский. «Что за кочевья чернеются...» (1830)
+1	Песни	ПЕСНЯ	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	_	3	nsubj	_	_
+2	вольные	ВОЛЬНЫЙ	ADJ	Case=Nom|Degree=Pos|Number=Plur	_	1	amod	_	_
+3	Оглашают	ОГЛАШАТЬ	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	0	root	_	_
+4	вас	ВЫ	PRON	Case=Acc|Number=Plur|Person=2	_	3	obj	_	_
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+# text = А. И. Одоевский. «Что за кочевья чернеются...» (1830)
+1	Славим	СЛАВИТЬ	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	0	root	_	_
+2	нашу	НАШ	DET	Case=Acc|Gender=Fem|Number=Sing	_	3	det	_	_
+3	Русь	РУСЬ	PROPN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	1	obj	_	_
+4	,	,	PUNCT	_	_	7	punct	_	_
+5	в	В	ADP	_	_	6	case	_	_
+6	неволе	НЕВОЛЯ	NOUN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	7	obl	_	_
+7	поем	ПЕТЬ	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	1	conj	_	_
+8	Вольность	ВОЛЬНОСТЬ	NOUN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	7	obj	_	_
+9	святую	СВЯТОЙ	ADJ	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	8	amod	_	_
+10	.	.	PUNCT	_	_	1	punct	_	_
+
+# text = А. И. Одоевский. «Что за кочевья чернеются...» (1830)
+1	Весело	ВЕСЕЛО	ADV	Degree=Pos	_	2	advmod	_	_
+2	ляжем	ЛЕЧЬ	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	0	root	_	_
+3	живые	ЖИВОЙ	ADJ	Case=Nom|Degree=Pos|Number=Plur	_	2	acl	_	_
+4	В	В	ADP	_	_	5	case	_	_
+5	могилу	МОГИЛА	NOUN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	2	obl	_	_
+6	за	ЗА	ADP	_	_	8	case	_	_
+7	святую	СВЯТОЙ	ADJ	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	8	amod	_	_
+8	Русь	РУСЬ	PROPN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	5	obl	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+

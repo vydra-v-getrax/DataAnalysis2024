@@ -1,0 +1,50 @@
+id	type	name	batter	topping
+0001	donut	Cake	Regular	None
+0001	donut	Cake	Regular	Glazed
+0001	donut	Cake	Regular	Sugar
+0001	donut	Cake	Regular	Powdered Sugar
+0001	donut	Cake	Regular	Chocolate with Sprinkles
+0001	donut	Cake	Regular	Chocolate
+0001	donut	Cake	Regular	Maple
+0001	donut	Cake	Chocolate	None
+0001	donut	Cake	Chocolate	Glazed
+0001	donut	Cake	Chocolate	Sugar
+0001	donut	Cake	Chocolate	Powdered Sugar
+0001	donut	Cake	Chocolate	Chocolate with Sprinkles
+0001	donut	Cake	Chocolate	Chocolate
+0001	donut	Cake	Chocolate	Maple
+0001	donut	Cake	Blueberry	None
+0001	donut	Cake	Blueberry	Glazed
+0001	donut	Cake	Blueberry	Sugar
+0001	donut	Cake	Blueberry	Powdered Sugar
+0001	donut	Cake	Blueberry	Chocolate with Sprinkles
+0001	donut	Cake	Blueberry	Chocolate
+0001	donut	Cake	Blueberry	Maple
+0001	donut	Cake	Devil's Food	None
+0001	donut	Cake	Devil's Food	Glazed
+0001	donut	Cake	Devil's Food	Sugar
+0001	donut	Cake	Devil's Food	Powdered Sugar
+0001	donut	Cake	Devil's Food	Chocolate with Sprinkles
+0001	donut	Cake	Devil's Food	Chocolate
+0001	donut	Cake	Devil's Food	Maple
+0002	donut	Raised	Regular	None
+0002	donut	Raised	Regular	Glazed
+0002	donut	Raised	Regular	Sugar
+0002	donut	Raised	Regular	Chocolate
+0002	donut	Raised	Regular	Maple
+0003	donut	Old Fashioned	Regular	None
+0003	donut	Old Fashioned	Regular	Glazed
+0003	donut	Old Fashioned	Regular	Chocolate
+0003	donut	Old Fashioned	Regular	Maple
+0003	donut	Old Fashioned	Chocolate	None
+0003	donut	Old Fashioned	Chocolate	Glazed
+0003	donut	Old Fashioned	Chocolate	Chocolate
+0003	donut	Old Fashioned	Chocolate	Maple
+0004	bar	Bar	Regular	Chocolate
+0004	bar	Bar	Regular	Maple
+0005	twist	Twist	Regular	Glazed
+0005	twist	Twist	Regular	Sugar
+0006	filled	Filled	Regular	Glazed
+0006	filled	Filled	Regular	Powdered Sugar
+0006	filled	Filled	Regular	Chocolate
+0006	filled	Filled	Regular	Maple
