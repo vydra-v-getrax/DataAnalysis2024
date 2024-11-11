@@ -42,7 +42,7 @@ All assignments should be submitted via email.
   <td><a href=https://github.com/vydra-v-getrax/DataAnalysis2024/blob/main/week2/PBSem4.ipynb>Input and files</a>
     <br><a href=https://github.com/vydra-v-getrax/DataAnalysis2024/blob/main/week2/PBSem5.ipynb>Subroutines and modules</a>
     <br><a href=https://github.com/vydra-v-getrax/DataAnalysis2024/blob/main/week2/Exercise%20machine.ipynb>More exercises</a>
-    <br></td>
+    <br><a href=https://github.com/vydra-v-getrax/DataAnalysis2024/blob/main/week2/Text_formats.ipynb>Text_formats</a></td>
   <td></td>
   <td></td>
    <td></td>
