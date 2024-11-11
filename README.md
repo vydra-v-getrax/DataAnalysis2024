@@ -30,14 +30,19 @@ All assignments should be submitted via email.
   </tr>
    <tr>
     <td>06.11 (online)</td>
-    <td><a href=https://github.com/vydra-v-getrax/DataAnalysis2024/blob/main/PBSem3.ipynb>Control structures</a></td>
+    <td><a href=https://github.com/vydra-v-getrax/DataAnalysis2024/blob/main/week1/PBSem3.ipynb>Control structures</a>
+    <br><a href=https://github.com/vydra-v-getrax/DataAnalysis2024/blob/main/week1/datatypes%20and%20variables.md>datatypes and variables</a>
+    <br><a href=https://github.com/vydra-v-getrax/DataAnalysis2024/blob/main/week1/interacting%20with%20python%20and%20basic%20functions.md>interacting with python and basic functions</td>
     <td></td>
     <td></td>
     <td></td>
  </tr>
  <tr>
   <td>13.11 (online)</td>
-  <td></td>
+  <td><a href=https://github.com/vydra-v-getrax/DataAnalysis2024/blob/main/week2/PBSem4.ipynb>Input and files</a>
+    <br><a href=https://github.com/vydra-v-getrax/DataAnalysis2024/blob/main/week2/PBSem5.ipynb>Subroutines and modules</a>
+    <br><a href=https://github.com/vydra-v-getrax/DataAnalysis2024/blob/main/week2/Excersise%20machine.ipynb.ipynb>More exercises</a>
+    <br></td>
   <td></td>
   <td></td>
    <td></td>
