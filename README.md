@@ -56,7 +56,8 @@ All assignments should be submitted via email.
 </tr>
 <tr>
   <td>27.11 </td>
-  <td></td>
+  <td><a href=https://github.com/vydra-v-getrax/DataAnalysis2024/blob/main/week3/TextManipulation(1).ipynb>Text manipulation</a>
+    <br><a href=https://github.com/vydra-v-getrax/DataAnalysis2024/blob/main/week3/RE.ipynb>Regular expressions</a></td>
   <td></td>
   <td>03.10</td>
   <td></td>
