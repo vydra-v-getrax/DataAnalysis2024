@@ -49,15 +49,15 @@ All assignments should be submitted via email.
 </tr>
 <tr>
   <td>20.11. (online)</td>
-  <td></td>
+  <td><a href=https://github.com/vydra-v-getrax/DataAnalysis2024/blob/main/week3/TextManipulation(1).ipynb>Text manipulation</a>
+    <br><a href=https://github.com/vydra-v-getrax/DataAnalysis2024/blob/main/week3/RE.ipynb>Regular expressions</a></td>
   <td>Assignment 1</td>
   <td>27.11  for the max. of 10, <br>04.12 for the max. of 8</td>
   <td></td>
 </tr>
 <tr>
   <td>27.11 </td>
-  <td><a href=https://github.com/vydra-v-getrax/DataAnalysis2024/blob/main/week3/TextManipulation(1).ipynb>Text manipulation</a>
-    <br><a href=https://github.com/vydra-v-getrax/DataAnalysis2024/blob/main/week3/RE.ipynb>Regular expressions</a></td>
+  <td></td>
   <td></td>
   <td>03.10</td>
   <td></td>
