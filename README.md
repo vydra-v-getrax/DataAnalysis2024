@@ -56,7 +56,7 @@ All assignments should be submitted via email.
   <td></td>
 </tr>
 <tr>
-  <td>27.11 </td>
+  <td>27.11 (online)</td>
   <td><a href=https://github.com/vydra-v-getrax/DataAnalysis2024/blob/main/week4/PPSem1.ipynb>Morphology parsing</a>
   <br><a href=https://github.com/vydra-v-getrax/DataAnalysis2024/blob/main/week4/PP_SpaCy.ipynb>Syntax parsing</a>
   <br><a href=https://github.com/vydra-v-getrax/DataAnalysis2024/blob/main/week4/NER.ipynb>NER</a>
