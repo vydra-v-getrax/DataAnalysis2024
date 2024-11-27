@@ -52,7 +52,7 @@ All assignments should be submitted via email.
   <td><a href=https://github.com/vydra-v-getrax/DataAnalysis2024/blob/main/week3/TextManipulation(1).ipynb>Text manipulation</a>
     <br><a href=https://github.com/vydra-v-getrax/DataAnalysis2024/blob/main/week3/RE.ipynb>Regular expressions</a></td>
   <td><a href=https://github.com/vydra-v-getrax/DataAnalysis2024/blob/main/DA_Assignment1.ipynb>Assignment 1</a></td>
-  <td>27.11  for the max. of 10, <br>04.12 for the max. of 8</td>
+  <td>27.11 for the max. of 10, <br>04.12 for the max. of 8</td>
   <td></td>
 </tr>
 <tr>
@@ -62,7 +62,7 @@ All assignments should be submitted via email.
   <br><a href=https://github.com/vydra-v-getrax/DataAnalysis2024/blob/main/week4/NER.ipynb>NER</a>
   <br><a href=https://github.com/vydra-v-getrax/DataAnalysis2024/blob/main/week4/PP_classes.ipynb>Classes</a></td>
   <td><a href=https://github.com/vydra-v-getrax/DataAnalysis2024/blob/main/DA_Assignment2.ipynb>Assignment 2</a></td>
-  <td>03.10</td>
+  <td>04.12 soft deadline, <br>11.12 hard (minus 2)</td>
   <td></td>
 </tr>
 </table>
