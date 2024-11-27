@@ -58,7 +58,11 @@ All assignments should be submitted via email.
 <tr>
   <td>27.11 </td>
   <td></td>
-  <td></td>
+    <td><a href=https://github.com/vydra-v-getrax/DataAnalysis2024/blob/main/week4/PPSem1.ipynb>Morphology parsing</a>
+    <br><a href=https://github.com/vydra-v-getrax/DataAnalysis2024/blob/main/week4/PP_SpaCy.ipynb>Syntax parsing</a>
+    <br><a href=https://github.com/vydra-v-getrax/DataAnalysis2024/blob/main/week4/NER.ipynb>NER</a>
+    <br><a href=https://github.com/vydra-v-getrax/DataAnalysis2024/blob/main/week4/PP_classes.ipynb>Classes</a></td>
+  <td><a href=https://github.com/vydra-v-getrax/DataAnalysis2024/blob/main/DA_Assignment2.ipynb>Assignment 2</a></td>
   <td>03.10</td>
   <td></td>
 </tr>
