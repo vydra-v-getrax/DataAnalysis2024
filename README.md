@@ -64,11 +64,13 @@ All assignments should be submitted via email.
   <td><a href=https://github.com/vydra-v-getrax/DataAnalysis2024/blob/main/DA_Assignment2.ipynb>Assignment 2</a></td>
   <td>04.12 soft deadline, <br>11.12 hard (minus 2)</td>
   <td></td>
+  <tr>
   <td>04.12 (online)</td>
   <td><a href=https://github.com/vydra-v-getrax/DataAnalysis2024/blob/main/week4/NER.ipynb>NER</a>
   <br><a href=https://github.com/vydra-v-getrax/DataAnalysis2024/blob/main/week5>Words as vectors</a></td>
   <td><a href=https://github.com/vydra-v-getrax/DataAnalysis2024/blob/main/Assignment3.ipynb>Assignment 3</a></td>
   <td>11.12 soft deadline, <br>18.12 hard (minus 2)</td>
   <td></td>
+  </tr>
 </tr>
 </table>
