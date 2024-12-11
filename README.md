@@ -72,5 +72,18 @@ All assignments should be submitted via email.
   <td>11.12 soft deadline, <br>18.12 hard (minus 2)</td>
   <td></td>
   </tr>
+    <tr>
+  <td>11.12 (402)</td>
+  <td><a href=https://github.com/vydra-v-getrax/DataAnalysis2024/blob/main/week6/>Pandas and databases</a></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  </tr>
+  <td>18.12 (402)</td>
+  <td><a href=https://github.com/vydra-v-getrax/DataAnalysis2024/blob/main/week7/>Web, HTML and crawlers</a></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  </tr>
 </tr>
 </table>
